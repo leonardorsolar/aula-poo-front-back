@@ -84,3 +84,7 @@ No terminal:
 ```
 http://localhost:3000/
 ```
+
+# Estudar:
+
+https://engenhariadesoftware.lovable.app/project/3
